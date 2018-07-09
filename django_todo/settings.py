@@ -27,7 +27,7 @@ SECRET_KEY = 'p#vs352*9146%ricf_j)a7+tsflrj2x03(@c=+e%3f@-^cd^jd'
 DEBUG = True
 
 ALLOWED_HOSTS = ['django-todo-oheag2.c9users.io']
-
+                ['gillers-django-todo.herokuapp.com']
 
 # Application definition
 
