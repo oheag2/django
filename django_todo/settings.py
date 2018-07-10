@@ -33,7 +33,7 @@ ALLOWED_HOSTS = [os.environ.get('C9_HOSTNAME'), os.environ.get('HOSTNAME')]
 #     ALLOWED_HOSTS.append(host)
 
 # Application definition
-#test line
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
